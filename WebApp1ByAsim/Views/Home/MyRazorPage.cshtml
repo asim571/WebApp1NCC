@@ -1,0 +1,23 @@
+﻿@model WebApp1ByAsim.Models.Student
+
+<h1>My Razor Page</h1>
+
+<p>Current Date and Time: @DateTime.Now</p>
+<p>Name: Asim Ghimire</p>
+<p>Roll No.: 96</p>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Multiplication Table of @(96 + 1)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 1; i <= 10; i++)
+        {
+            <tr>
+                <td>@(96 + 1) x @i = @((96 + 1) * i)</td>
+            </tr>
+        }
+    </tbody>
+</table>

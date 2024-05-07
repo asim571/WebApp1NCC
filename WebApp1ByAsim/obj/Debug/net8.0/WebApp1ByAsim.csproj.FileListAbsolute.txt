@@ -1,0 +1,60 @@
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\appsettings.Development.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\appsettings.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.staticwebassets.runtime.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.exe
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.deps.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.runtimeconfig.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.dll
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.pdb
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.AssemblyInfoInputs.cache
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.AssemblyInfo.cs
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.csproj.CoreCompileInputs.cache
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.MvcApplicationPartsAssemblyInfo.cache
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.RazorAssemblyInfo.cache
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.RazorAssemblyInfo.cs
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.build.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.development.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1ByAsim.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp1ByAsim.props
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1ByAsim.props
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1ByAsim.props
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\bundle\WebApp1ByAsim.styles.css
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\projectbundle\WebApp1ByAsim.bundle.scp.css
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.dll
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\refint\WebApp1ByAsim.dll
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.pdb
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.genruntimeconfig.cache
+D:\DatabaseTest\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\ref\WebApp1ByAsim.dll
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\appsettings.Development.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\appsettings.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.staticwebassets.runtime.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.exe
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.deps.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.runtimeconfig.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.dll
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\bin\Debug\net8.0\WebApp1ByAsim.pdb
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.AssemblyInfoInputs.cache
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.AssemblyInfo.cs
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.csproj.CoreCompileInputs.cache
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.MvcApplicationPartsAssemblyInfo.cache
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.RazorAssemblyInfo.cache
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.RazorAssemblyInfo.cs
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.build.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.development.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1ByAsim.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp1ByAsim.props
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1ByAsim.props
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1ByAsim.props
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\bundle\WebApp1ByAsim.styles.css
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\scopedcss\projectbundle\WebApp1ByAsim.bundle.scp.css
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.dll
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\refint\WebApp1ByAsim.dll
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.pdb
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\WebApp1ByAsim.genruntimeconfig.cache
+D:\Lab 2 NCC\WebApp1ByAsim\WebApp1ByAsim\obj\Debug\net8.0\ref\WebApp1ByAsim.dll
